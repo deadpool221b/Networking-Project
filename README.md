@@ -6,11 +6,11 @@ Step 1. Download the source code to system in zip format or clone repo.
 
 Step 2. On linux shell navigate to 
 ```
-"Download-Location"/Networking-Project-main/Networking-Project-main/Server_Client_TCP
+"Download-Location"/Networking-Project-main/Networking-Project-main/Client_Server_TCP
 ```
 Or
 ```
-"Download-Location"/Networking-Project-main/Networking-Project-main/Server_Client_UDP
+"Download-Location"/Networking-Project-main/Networking-Project-main/Client_Server_UDP
 ```
 Step 3. compile the server and client codes using command 
 ```
